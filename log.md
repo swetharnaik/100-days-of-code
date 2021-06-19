@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 19, 2021 (Example 1)
+### Day 1: June 19, 2021
 
 **Today's Progress**: Refresher on DS in LeetCode (mainly arrays and linked list). Worked on designing my personal blog as well made with gatsby.
 
@@ -12,15 +12,17 @@ Got some time to work on CSS layout of my personal blog that I have been working
 1. [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)
 2. [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: June 20, 2021
 
-##### (delete me or comment me out)
+**Today's Progress**: Continued with DS in LeetCode (specifically Arrays and Strings). Started on low level API Desgin.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: It was interesting to learn how APIs are designed- the entities and classes and how their relationships are established
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work:**
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+1. [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
+2. [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
+3. [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
 
 ### Day 1: June 27, Monday
 
