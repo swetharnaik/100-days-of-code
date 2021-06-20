@@ -24,13 +24,12 @@ Got some time to work on CSS layout of my personal blog that I have been working
 2. [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
 3. [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
 
-### Day 1: June 27, Monday
+### Day 3: June 21, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Continued with DS in LeetCode and learnt about the use of dummy linked list node which eases out the need for writing corner case scenarios when concerned with head and tail of the linked list. Also started on Design Patterns- Abstract Design Pattern
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Dummy Node for a linked list makes it so much more easier to write operations to be made on a linked list since it considers the edge cases involving the head and tail of the list.
 
 **Link(s) to work**
 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/)
