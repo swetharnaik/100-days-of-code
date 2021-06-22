@@ -33,3 +33,17 @@ Got some time to work on CSS layout of my personal blog that I have been working
 **Link(s) to work**
 
 1. [Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/)
+
+### Day 4: June 22, Tuesday
+
+**Today's Progress**: Continued with DS in LeetCode for HashMaps and tables. Also read and implemented Design Patterns- Prototype Design Pattern
+
+**Thoughts** Prototype Design Pattern gave a fresh new perspective on how to initialize predefined objects by cloning. Quite different from Factory Design Pattern which achieves it by sub classes.
+
+**Link(s) to work**
+
+1. [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)
+2. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
+3. [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
+4. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
+5. [Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)
