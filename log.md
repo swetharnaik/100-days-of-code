@@ -47,3 +47,13 @@ Got some time to work on CSS layout of my personal blog that I have been working
 3. [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
 4. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
 5. [Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)
+
+### Day 5: June 23, Wednesday
+
+**Today's Progress**: Continued with DS in LeetCode for Trees.
+
+**Thoughts** Trees are a little trickier. But coming up with solutions is more or less the same once you get the hang of traversal
+
+**Link(s) to work**
+
+1. [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
