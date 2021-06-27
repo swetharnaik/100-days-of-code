@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 19, 2021
+### Day 1: June 19, Saturday
 
 **Today's Progress**: Refresher on DS in LeetCode (mainly arrays and linked list). Worked on designing my personal blog as well made with gatsby.
 
@@ -12,7 +12,7 @@ Got some time to work on CSS layout of my personal blog that I have been working
 1. [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)
 2. [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)
 
-### Day 2: June 20, 2021
+### Day 2: June 20, Sunday
 
 **Today's Progress**: Continued with DS in LeetCode (specifically Arrays and Strings). Started on low level API Desgin.
 
@@ -57,3 +57,41 @@ Got some time to work on CSS layout of my personal blog that I have been working
 **Link(s) to work**
 
 1. [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
+
+### Day 6: June 24, Thursday
+
+**Today's Progress**: Started with some competitive programming in LeetCode. Went through Builder Design Pattern. Endded with refreshing PostgreSQL
+
+**Thoughts** Refreshing SQL commands was a much needed task since we use it for almost all applications.
+
+**Link(s) to work**
+
+1. [Validate Binary Search Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/625/)
+
+### Day 7: June 25, Friday
+
+**Today's Progress**: Took it a little slow today with some practices in LeetCode and started a refresher course on Javascript for UI development.
+
+**Thoughts** Javascript was a little easier to get hold off especially if you already have a good grip on another language.
+
+**Link(s) to work**
+
+1. [Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)
+
+### Day 8: June 26, Saturday
+
+**Today's Progress**: Continued with some practices in LeetCode. Also had some fun learning Javascript.
+
+**Thoughts** Things are a little slow. Need to step on learning some frameworks and contributing to open source community. A better routine would be to stick to 1 DS problem, then implement backend/frontend/database.
+
+**Link(s) to work**
+
+1. [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)
+2. [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
+3. [String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)
+
+### Day 9: June 27, Sunday
+
+**Today's Progress**: Continued with learning JavaScript in HackerRank. Also refreshed a bit on Joining and Subqueries in PostgreSQL.
+
+**Thoughts** Since Javascript is dynamically typed, it doesn't follow strict variables initializers. So it's easy to get started.
