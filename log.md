@@ -95,3 +95,14 @@ Got some time to work on CSS layout of my personal blog that I have been working
 **Today's Progress**: Continued with learning JavaScript in HackerRank. Also refreshed a bit on Joining and Subqueries in PostgreSQL.
 
 **Thoughts** Since Javascript is dynamically typed, it doesn't follow strict variables initializers. So it's easy to get started.
+
+### Day 10: June 28, Monday
+
+**Today's Progress**: Continued with some practices in LeetCode. Went through some basic syntaxes of Javascript. A touch up on callback, promises and async. Quite interesting.
+
+**Thoughts** The "this" keyword is Javascript is a little more complicated than Java since it depends on the context in which it's being called. Javascript being dynamically typed ends up being quite easy to code with but this can have issues if data is not handled and exceptions are not caught properly.
+
+**Link(s) to work**
+
+1. [Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)
+2. [10 Days Of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?filters%5Bsubdomains%5D%5B%5D=10-days-of-javascript&badge_type=10-days-of-javascript)
