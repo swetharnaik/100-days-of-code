@@ -106,3 +106,13 @@ Got some time to work on CSS layout of my personal blog that I have been working
 
 1. [Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)
 2. [10 Days Of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?filters%5Bsubdomains%5D%5B%5D=10-days-of-javascript&badge_type=10-days-of-javascript)
+
+### Day 11: July 1, Thursday
+
+**Today's Progress**: Binary Sort in LeetCode. Designed a calculator using Javascript, HTML and CSS.
+
+**Thoughts** Javascript, HTML, CSS will always be the main components that govern UI no matter the amount of frameworks bursting in to the world nowadays like a Pandora's box
+
+**Link(s) to work**
+
+1. [First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)
