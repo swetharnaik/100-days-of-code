@@ -116,3 +116,13 @@ Got some time to work on CSS layout of my personal blog that I have been working
 **Link(s) to work**
 
 1. [First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)
+
+### Day 12: July 2, Friday
+
+**Today's Progress**: Solved a couple of challenges in LeetCode. Also started reading and playing more with GraphQL.
+
+**Thoughts**: Being Friday, things were a bit slow.
+
+**Link(s) to work**
+
+1. [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
