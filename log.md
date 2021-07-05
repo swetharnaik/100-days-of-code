@@ -126,3 +126,13 @@ Got some time to work on CSS layout of my personal blog that I have been working
 **Link(s) to work**
 
 1. [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
+
+### Day 13: July 5, Monday
+
+**Today's Progress**: Got started with Bootstrap.
+
+**Thoughts**: More elegant and easy to use. But making tiny changes or bringing some extra functionality to the elements will be a lot more strenuous and can bring drastic changes which can't be presumed.
+
+**Links(s) to work**
+
+1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
