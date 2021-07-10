@@ -136,3 +136,24 @@ Got some time to work on CSS layout of my personal blog that I have been working
 **Links(s) to work**
 
 1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
+
+### Day 14: July 6, Tuesday
+
+**Today's Progress**: JQuerying my way. Element selection and manipulation using addClass, removeClass, props, css, innerHTML, child, etc.
+
+**Thoughts**: Got a clear and basic understanding of how DOM elements are updated dynamically.
+
+**Links(s) to work**
+
+1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
+
+### Day 15: July 10, Saturday
+
+**Today's Progress**: Sassing my way through SCSS and Leeting my code through Dynamic Programming
+
+**Thoughts**: Sass was clearly a new concept for me in CSS. The fact that code can be written in CSS is pretty elegant. Makes things easier for the developer to manipulate common style elements.
+
+**Links(s) to work**
+
+1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
+2. [Dynamic Programming](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)
