@@ -157,3 +157,23 @@ Got some time to work on CSS layout of my personal blog that I have been working
 
 1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
 2. [Dynamic Programming](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/569/)
+
+### Day 16: July 15, Thursday
+
+**Today's Progress**: Started on JSX components of React
+
+**Thoughts**: React gives us the ability to write JSX which is a combination of HTML and JS allowing for more interactivity. During rendering, React uses a transpiler such as Babel to convert this JSX into seperate web components. Another difference is that in HTML, we tagged classes for elements. Here, it is className since class is a reserved keyword. In React, JS will always be written inside {}. React components should always be encapsulated within a parent tag. React components can be created as a stateless JS function (which won't save the state/props of the elements for updates/changes, must start with capital letter) or as a class which extends React.Component (which has state manipulations)
+
+**Links(s) to work**
+
+1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries)
+
+### Day 17: July 18, Saturday
+
+**Today's Progress**: React Component Composition
+
+**Thoughts**: The ability to use these components as a simple HTML element is what makes React reusable and simple. Props(data) can also be passed from the parent component to the child component as well as set defaultProps and propTypes.
+
+**Links(s) to work**
+
+1. [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries)
